@@ -1,0 +1,2 @@
+packages:
+  - { name: "liquid", desc: "Shopify Liquid template engine — parse + render against assigns, gem-faithful.", url: "https://github.com/go-liquid/liquid", doc: "https://pkg.go.dev/github.com/go-liquid/liquid" }
